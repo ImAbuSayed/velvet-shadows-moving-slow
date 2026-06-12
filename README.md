@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-shadows-moving-slow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Velvet Shadows Moving Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadows-moving-slow/) |
+| **Get License** | [Commercial Licensing for Velvet Shadows Moving Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadows-moving-slow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Velvet shadows moving slow
+> Down the roads we used to know
+> Take my hand and let it show
+> Where the quiet rivers flow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
